@@ -1,3 +1,3 @@
-Odin Recipes
+# Odin Recipes
 
 1. HTML
